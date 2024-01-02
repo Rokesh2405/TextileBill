@@ -1,0 +1,428 @@
+[28-Apr-2018 08:34:05 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 139
+[28-Apr-2018 08:34:07 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 139
+[28-Apr-2018 08:34:09 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 139
+[28-Apr-2018 08:48:03 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[28-Apr-2018 08:48:03 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined offset: 2 in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 7
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined offset: 3 in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 8
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: inline in /home/clicktlq/public_html/demo/admin/require/header.php on line 47
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: collapse in /home/clicktlq/public_html/demo/admin/require/header.php on line 149
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined index: UIDD in /home/clicktlq/public_html/demo/admin/require/header.php on line 195
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: tree1 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 5
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: tree12 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 10
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: menutree12 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 16
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem13 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 17
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem15 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 19
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem16 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 20
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem17 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 21
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem18 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 22
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: tree19 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 25
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: menutree19 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 31
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem21 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 33
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem22 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 34
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem23 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 35
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem24 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 36
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: tree25 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 40
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: menutree25 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 46
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem26 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 47
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem14 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 48
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem27 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 49
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem52 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 50
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem28 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 51
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem29 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 52
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem30 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 53
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem31 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 54
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 55
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem35 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 56
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem32 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 57
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem33 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 58
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: tree34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 62
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: menutree34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 68
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem35 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 69
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem36 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 70
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: tree37 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 74
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: menutree37 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 80
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem38 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 81
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem21 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 82
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: tree39 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 86
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: menutree39 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 92
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem40 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 93
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem41 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 94
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: tree42 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 98
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: menutree42 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 104
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem43 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 105
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: tree44 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 109
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: menutree44 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 115
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem45 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 116
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: tree46 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 121
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: menutree46 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 127
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem47 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 128
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem48 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 129
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: tree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 133
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: menutree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 139
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 140
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: tree50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 144
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: menutree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 150
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 151
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem51 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 152
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 8
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined index: aid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 49
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 60
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 75
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: msg in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 88
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'clicktlq'@'localhost' (using password: NO) in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 97
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'clicktlq'@'localhost' (using password: NO) in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 97
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'clicktlq'@'localhost' (using password: NO) in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 97
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'clicktlq'@'localhost' (using password: NO) in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 105
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'clicktlq'@'localhost' (using password: NO) in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 116
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'clicktlq'@'localhost' (using password: NO) in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 117
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysql_query(): Access denied for user 'clicktlq'@'localhost' (using password: NO) in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 84
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 131
+[28-Apr-2018 14:18:03 Asia/Calcutta] PHP Notice:  Undefined variable: datepicker in /home/clicktlq/public_html/demo/admin/require/footer.php on line 173
+[28-Apr-2018 08:48:15 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[28-Apr-2018 08:48:15 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined offset: 2 in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 7
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined offset: 3 in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 8
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: inline in /home/clicktlq/public_html/demo/admin/require/header.php on line 47
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: collapse in /home/clicktlq/public_html/demo/admin/require/header.php on line 149
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined index: UIDD in /home/clicktlq/public_html/demo/admin/require/header.php on line 195
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: tree1 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 5
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: tree12 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 10
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: menutree12 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 16
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem13 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 17
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem15 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 19
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem16 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 20
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem17 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 21
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem18 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 22
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: tree19 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 25
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: menutree19 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 31
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem21 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 33
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem22 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 34
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem23 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 35
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem24 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 36
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: tree25 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 40
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: menutree25 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 46
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem26 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 47
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem14 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 48
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem27 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 49
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem52 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 50
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem28 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 51
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem29 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 52
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem30 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 53
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem31 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 54
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 55
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem35 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 56
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem32 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 57
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem33 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 58
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: tree34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 62
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: menutree34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 68
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem35 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 69
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem36 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 70
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: tree37 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 74
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: menutree37 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 80
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem38 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 81
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem21 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 82
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: tree39 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 86
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: menutree39 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 92
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem40 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 93
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem41 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 94
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: tree42 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 98
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: menutree42 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 104
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem43 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 105
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: tree44 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 109
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: menutree44 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 115
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem45 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 116
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: tree46 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 121
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: menutree46 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 127
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem47 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 128
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem48 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 129
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: tree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 133
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: menutree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 139
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 140
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: tree50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 144
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: menutree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 150
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 151
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem51 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 152
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 8
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 19
+[28-Apr-2018 14:18:15 Asia/Calcutta] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 60
+[28-Apr-2018 08:51:58 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[28-Apr-2018 08:51:58 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined offset: 2 in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 7
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined offset: 3 in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 8
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: inline in /home/clicktlq/public_html/demo/admin/require/header.php on line 47
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: collapse in /home/clicktlq/public_html/demo/admin/require/header.php on line 149
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined index: UIDD in /home/clicktlq/public_html/demo/admin/require/header.php on line 195
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: tree1 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 5
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: tree12 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 10
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: menutree12 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 16
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem13 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 17
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem15 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 19
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem16 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 20
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem17 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 21
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem18 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 22
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: tree19 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 25
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: menutree19 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 31
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem21 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 33
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem22 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 34
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem23 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 35
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem24 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 36
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: tree25 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 40
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: menutree25 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 46
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem26 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 47
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem14 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 48
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem27 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 49
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem52 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 50
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem28 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 51
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem29 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 52
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem30 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 53
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem31 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 54
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 55
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem35 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 56
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem32 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 57
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem33 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 58
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: tree34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 62
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: menutree34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 68
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem35 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 69
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem36 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 70
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: tree37 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 74
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: menutree37 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 80
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem38 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 81
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem21 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 82
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: tree39 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 86
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: menutree39 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 92
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem40 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 93
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem41 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 94
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: tree42 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 98
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: menutree42 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 104
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem43 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 105
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: tree44 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 109
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: menutree44 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 115
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem45 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 116
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: tree46 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 121
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: menutree46 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 127
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem47 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 128
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem48 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 129
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: tree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 133
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: menutree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 139
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 140
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: tree50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 144
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: menutree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 150
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 151
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem51 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 152
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 8
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined index: aid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 49
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 60
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 75
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: msg in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 84
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 97
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 97
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 97
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 105
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 116
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 117
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 88
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 131
+[28-Apr-2018 14:21:58 Asia/Calcutta] PHP Notice:  Undefined variable: datepicker in /home/clicktlq/public_html/demo/admin/require/footer.php on line 173
+[28-Apr-2018 08:52:09 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[28-Apr-2018 08:52:09 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined offset: 2 in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 7
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined offset: 3 in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 8
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: inline in /home/clicktlq/public_html/demo/admin/require/header.php on line 47
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: collapse in /home/clicktlq/public_html/demo/admin/require/header.php on line 149
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined index: UIDD in /home/clicktlq/public_html/demo/admin/require/header.php on line 195
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: tree1 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 5
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: tree12 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 10
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: menutree12 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 16
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem13 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 17
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem15 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 19
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem16 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 20
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem17 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 21
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem18 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 22
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: tree19 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 25
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: menutree19 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 31
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem21 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 33
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem22 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 34
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem23 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 35
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem24 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 36
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: tree25 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 40
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: menutree25 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 46
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem26 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 47
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem14 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 48
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem27 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 49
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem52 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 50
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem28 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 51
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem29 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 52
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem30 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 53
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem31 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 54
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 55
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem35 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 56
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem32 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 57
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem33 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 58
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: tree34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 62
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: menutree34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 68
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem35 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 69
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem36 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 70
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: tree37 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 74
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: menutree37 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 80
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem38 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 81
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem21 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 82
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: tree39 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 86
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: menutree39 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 92
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem40 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 93
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem41 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 94
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: tree42 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 98
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: menutree42 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 104
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem43 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 105
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: tree44 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 109
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: menutree44 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 115
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem45 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 116
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: tree46 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 121
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: menutree46 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 127
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem47 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 128
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem48 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 129
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: tree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 133
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: menutree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 139
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 140
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: tree50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 144
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: menutree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 150
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 151
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem51 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 152
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 8
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 19
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Notice:  Undefined variable: db in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 59
+[28-Apr-2018 14:22:09 Asia/Calcutta] PHP Fatal error:  Call to a member function prepare() on null in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 59
+[28-Apr-2018 08:52:33 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[28-Apr-2018 08:52:33 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined offset: 2 in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 7
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined offset: 3 in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 8
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: inline in /home/clicktlq/public_html/demo/admin/require/header.php on line 47
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: collapse in /home/clicktlq/public_html/demo/admin/require/header.php on line 149
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined index: UIDD in /home/clicktlq/public_html/demo/admin/require/header.php on line 195
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: tree1 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 5
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: tree12 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 10
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: menutree12 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 16
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem13 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 17
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem15 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 19
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem16 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 20
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem17 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 21
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem18 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 22
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: tree19 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 25
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: menutree19 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 31
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem21 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 33
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem22 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 34
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem23 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 35
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem24 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 36
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: tree25 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 40
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: menutree25 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 46
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem26 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 47
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem14 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 48
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem27 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 49
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem52 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 50
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem28 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 51
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem29 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 52
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem30 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 53
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem31 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 54
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 55
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem35 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 56
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem32 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 57
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem33 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 58
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: tree34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 62
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: menutree34 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 68
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem35 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 69
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem36 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 70
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: tree37 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 74
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: menutree37 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 80
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem38 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 81
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem21 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 82
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: tree39 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 86
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: menutree39 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 92
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem40 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 93
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem41 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 94
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: tree42 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 98
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: menutree42 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 104
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem43 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 105
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: tree44 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 109
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: menutree44 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 115
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem45 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 116
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: tree46 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 121
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: menutree46 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 127
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem47 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 128
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem48 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 129
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: tree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 133
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: menutree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 139
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 140
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: tree50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 144
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: menutree49 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 150
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem50 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 151
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: smenuitem51 in /home/clicktlq/public_html/demo/admin/require/sidebar.php on line 152
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 8
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 19
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined index: aid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 49
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 60
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 75
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 88
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 89
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 89
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 97
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 89
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 89
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 97
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 89
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 89
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 97
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 89
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 89
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 105
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 89
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 89
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 116
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 89
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 89
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 117
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 89
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/clicktlq/public_html/demo/admin/config/functions_com.php on line 89
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined index: tid in /home/clicktlq/public_html/demo/admin/pages/template/addtemplate.php on line 131
+[28-Apr-2018 14:22:33 Asia/Calcutta] PHP Notice:  Undefined variable: datepicker in /home/clicktlq/public_html/demo/admin/require/footer.php on line 173

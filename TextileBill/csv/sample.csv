@@ -1,0 +1,3 @@
+Product Name,Product Code,Product Group Name,ProductSubGroupName,Product Brand Name,Unit,Tax Name,Purchase Price,Sales Price,Stock,Convertion,CommodityCode,BarCode,WareHouseName,UnitPerPack,ManufactureName,ReorderLevel,Raw Material,Convertion Type,InvoiceName
+LEOAMIN Test    (AMINO ACID) 100ML,AMI 1,Default,Default,Default,NOS, GST 18 % TAX,0,40,Yes,Yes,31010099,8600200000094,Main,1,Default,1,Yes,Bill of Materials,LEOAMIN  Test  (AMINO ACID) 100ML
+LEOAMIN  Testtt   (AMINO ACID) 250ML,AMI 2,Default,Default,Default,KGS, GST 12 % TAX,0,80,No,No,31010099,,Main,1,Default,2,No,Grouped,LEOAMIN  Testtt  (AMINO ACID) 250ML

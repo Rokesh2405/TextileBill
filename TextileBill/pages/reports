@@ -1,0 +1,336 @@
+<?php
+$dynamic = '1';
+$listings = '1';
+$orderby = '';
+$start = '';
+$to = '';
+$getstatic = '1';
+include 'admin/config/config.inc.php';
+$path = $_SERVER['DOCUMENT_ROOT'] . "/demo/images/product/";
+$s = '';
+$f = '';
+if ($_REQUEST['artbvalfet'] != '') {
+    $countatrb = count($_REQUEST['artbvalfet']);
+    $artvalues = explode(',', $_REQUEST['artbvalfet']);
+    if ($countatrb != '0') {
+        foreach ($artvalues as $artval) {
+            $f = " FIND_IN_SET ($artval,`attributes`)";
+            $sqll = "SELECT * FROM `productattribute` WHERE" . $f;
+            $atriblist = DB($sqll);
+            $artcount = mysqli_num_rows($atriblist);
+            if ($artcount != '0') {
+                while ($gets = mysqli_fetch_array($atriblist)) {
+                    $artpid[] = $gets['pid'];
+                }
+            }
+        }
+
+        $carpid = count($artpid);
+        if ($carpid != '0') {
+            $unqval = array_unique($artpid);
+            $impatributes = implode(',', $unqval);
+            $s .= "  AND `pid` IN ($impatributes) ";
+        } else {
+            $s .= "  AND `pid`='0' ";
+        }
+    }
+}
+
+
+if ($_REQUEST['keyword'] != '') {
+$s .= " AND `p`.`productname`  like  '".$_REQUEST['keyword']."%' ";
+}
+
+if ($_REQUEST['subcategory'] != '') {
+    $sulist = $_REQUEST['subcategory'];
+
+    $s .= "  AND `sid` IN ($sulist) ";
+}
+
+if ($_REQUEST['innercategory'] != '') {
+    $innerlist = $_REQUEST['innercategory'];
+
+    $s .= "  AND `innerid` IN ($innerlist) ";
+}
+
+
+if ($_REQUEST['brand'] != '') {
+    $brlist = $_REQUEST['brand'];
+
+    $s .= "  AND `brand` IN ($brlist) ";
+}
+
+if ($_REQUEST['pricefrom'] != '' and $_REQUEST['priceto'] != '') {
+    extract($_REQUEST);
+    if ((($pricefrom != '') && ($pricefrom > '0')) && (($priceto != '') && ($priceto > '0'))) {
+        $s .= " AND `price` BETWEEN '" . $pricefrom . "' AND '" . $priceto . "' ";
+    } elseif (($pricefrom != 'ull') && ($pricefrom != '') && ($pricefrom > '0')) {
+        $s .= " AND `price` > '" . $pricefrom . "' ";
+    } elseif (($priceto != '') && ($priceto > '0') && ($priceto != 'null')) {
+        $s .= " AND `price` < '" . $priceto . "' ";
+    } else {
+        $s .= "";
+    }
+}
+
+if (($_REQUEST['cid'] != '') && ($_REQUEST['sid'] != '') && ($_REQUEST['iid'] != '')) {
+    $innerid = '1';
+    $pageu = DB_QUERY("SELECT * FROM `innercategory` WHERE `link`='" . $_REQUEST['iid'] . "'");
+    $s .= "AND FIND_IN_SET ('" . getcategoryy('cid', str_replace('', ' ', $_REQUEST['cid'])) . "',`c`.`cid`) AND FIND_IN_SET ('" . getsubcategoryy('sid', str_replace('_', ' ', $_REQUEST['sid'])) . "',`sid`) AND FIND_IN_SET ('" . $pageu['innerid'] . "',`innerid`)";
+    $tt = stripslashes($pageu['innername']);
+} elseif (($_REQUEST['cid'] != '') && ($_REQUEST['sid'] != '')) {
+    $subid = '1';
+    $pageu = DB_QUERY("SELECT * FROM `subcategory` WHERE `link`='" . $_REQUEST['sid'] . "'");
+    $s .= "AND FIND_IN_SET ('" . getcategoryy('cid', str_replace('_', ' ', $_REQUEST['cid'])) . "',`c`.`cid`) AND FIND_IN_SET ('" . $pageu['sid'] . "',`sid`) ";
+    $tt = stripslashes($pageu['subcategory']);
+} elseif ($_REQUEST['cid'] != '') {
+    $catid = '1';
+    $pageu = DB_QUERY("SELECT * FROM `category` WHERE `link`='" . $_REQUEST['cid'] . "'");
+    $s .= "AND FIND_IN_SET ('" . $pageu['cid'] . "',`c`.`cid`) ";
+    $tt = stripslashes($pageu['category']);
+} else {
+    $tt = 'All Products';
+    $s .= "";
+}
+
+
+if ($_REQUEST['sort_by'] == 'POPULARITY') {
+    $orderby = ' ORDER BY `p`.`visit_count` DESC';
+} elseif ($_REQUEST['sort_by'] == 'NAME_ASC') {
+    $orderby = ' ORDER BY trim(`p`.`productname`) ASC';
+} elseif ($_REQUEST['sort_by'] == 'NAME_DESC') {
+    $orderby = ' ORDER BY trim(`p`.`productname`) DESC';
+} elseif ($_REQUEST['sort_by'] == 'PRICE_ASC') {
+    $orderby = ' ORDER BY `p`.`sprice` ASC';
+} elseif ($_REQUEST['sort_by'] == 'PRICE_DESC') {
+    $orderby = ' ORDER BY `p`.`sprice` DESC';
+} else {
+    $orderby = ' ORDER BY `p`.`pid` DESC';
+}
+
+if (($_REQUEST['srchcategory'] != '') && ($_REQUEST['srchcategory'] != 'null')) {
+    $s .= " AND `p`.`cid`=" . trim($_REQUEST['srchcategory']) . ' ';
+}
+
+if (($_REQUEST['keyword'] != '') && ($_REQUEST['keyword'] != 'null')) {
+    $s .= " AND `productname` LIKE '%" . trim($_REQUEST['keyword']) . "%' ";
+}
+
+$alink = strtok($alink, '?');
+
+if ($_REQUEST['artbvalfet'] != '') {
+    $params11 .= '&artbvalfet=' . $_REQUEST['artbvalfet'];
+}
+if ($_REQUEST['pricefrom'] != '' && $_REQUEST['priceto'] != '') {
+    $params11 .= '&pricefrom=' . $_REQUEST['pricefrom'] . '&priceto=' . $_REQUEST['priceto'];
+}
+if ($_REQUEST['subcategory'] != '') {
+    $params11 .= '&subcategory=' . $_REQUEST['subcategory'];
+}
+if ($_REQUEST['innercategory'] != '') {
+    $params11 .= '&innercategory=' . $_REQUEST['innercategory'];
+}
+if ($_REQUEST['brand'] != '') {
+    $params11 .= '&brand=' . $_REQUEST['brand'];
+}
+
+$alink = $alink . '?filter' . $params11;
+
+include "require/paging.php";
+
+$sql = "SELECT trim(`p`.`productname`),`p`.`tamilproductname`,`p`.`description`,`p`.`link`,`p`.`cid`,`p`.`brand`,`p`.`price`,`p`.`sprice`,`p`.`total_Availability`,`p`.`pid`,`p`.`image`, (CASE `p`.`sprice` WHEN (`p`.`price` < `p`.`sprice` AND `p`.`sprice`>0) THEN `p`.`price` ELSE `p`.`sprice` END) AS `minval`,`c`.`category`,`b`.`bname` FROM `product` AS `p`, `category` AS `c`, `brand` AS `b` WHERE `p`.`cid`=`c`.`cid` AND `p`.`brand`=`b`.`brid` AND `p`.`status`= '1' and `p`.`productname` != ''" . $s . $orderby;
+
+
+$maxprice = DB_QUERY("SELECT MAX(`price`) AS `price` FROM `product` WHERE `price`>'0' AND `status`='1' " . $s);
+
+$ssql = DB($sql);
+$total = mysqli_num_rows($ssql);
+$paging = new paging($sql, '24');
+$sqlt = $paging->sql;
+$res = DB($sqlt) or die($db->errorInfo());
+
+if ($_REQUEST['page_number'] != '') {
+    $start = ($_REQUEST['page_number'] - 1) * 24 + 1;
+    $to = 24 * $_REQUEST['page_number'];
+    if ($total < $to) {
+        $to = $total;
+    }
+} else {
+    $start = '1';
+    $to = '24';
+    if ($total < $to) {
+        $to = $total;
+    }
+}
+if ($total != '0') {
+
+?>
+    <div class=" toolbar-products toolbar-top">
+        <div class="toolbar-option">
+            <div class="toolbar-sorter">
+ 
+                <select class="custom-select form-control sort_by" name="sort_by" id="sort_by" style="width: 160px;" onchange="getattrval(this.value);">
+                    <option value="NEWEST" <?php
+                    if ($_REQUEST['sort_by'] == 'NEWEST') {
+                        echo 'selected="selected"';
+                    }
+                    ?>>Sort By: Newest</option>
+                    <option value="POPULARITY" <?php
+                    if ($_REQUEST['sort_by'] == 'POPULARITY') {
+                        echo 'selected="selected"';
+                    }
+                    ?>>Sort By: Popularity</option>
+                    <option value="NAME_ASC" <?php
+                    if ($_REQUEST['sort_by'] == 'NAME_ASC') {
+                        echo 'selected="selected"';
+                    }
+                    ?>>Sort By: Name ASC</option>
+                    <option value="NAME_DESC" <?php
+                    if ($_REQUEST['sort_by'] == 'NAME_DESC') {
+                        echo 'selected="selected"';
+                    }
+                    ?>>Sort By: Name DESC</option>
+                    <option value="PRICE_ASC" <?php
+                    if ($_REQUEST['sort_by'] == 'PRICE_ASC') {
+                        echo 'selected="selected"';
+                    }
+                    ?>>Sort By: Price ASC</option>
+                    <option value="PRICE_DESC" <?php
+                    if ($_REQUEST['sort_by'] == 'PRICE_DESC') {
+                        echo 'selected="selected"';
+                    }
+                    ?>>Sort By: Price DESC</option>
+                </select>
+            </div><!-- Short by -->
+        </div>
+        <nav class="pagination-container">
+            <label>Showing: <?php echo $start; ?> - <?php echo $to; ?> of <?php echo $total; ?></label>
+            <?php echo $paging->show_paging($alink); ?>
+        </nav>
+
+    </div><!-- Toolbar -->
+<?php } ?>
+<!-- List Products -->
+<form name="filterform" id="filterform" method="post">
+    <div class="products  products-grid">
+        <ol class="product-items row">
+            <?php
+            if ($total != '0') {
+                while ($prolist = mysqli_fetch_array($res)) {
+
+                    $img = explode(',', $prolist['image']);
+                    if ($prolist['total_Availability'] != '0') {
+                        $tavail = "InStock";
+                    } else {
+                        $tavail = "OutOfStock";
+                    }
+                    if (($prolist['sprice'] > 0) && ($prolist['sprice'] != '')) {
+                        $sprz = $prolist['sprice'];
+                    } else {
+                        $sprz = $prolist['price'];
+                    }
+                    ?>
+                    <li class="col-sm-4 product-item product-item-opt-0">
+                        <div class="product-item-info">
+                            <script type="application/ld+json">
+                                {   
+                                "@context": "http://schema.org",
+                                "@type": "Product",
+                                "name": "<?php echo stripslashes($prolist[0]); ?>",
+                                "image": "<?php echo $fsitename; ?>images/product/<?php echo stripslashes($prolist[0]); ?>/thump/<?php echo $img['0']; ?>",
+                                "offers": {                          
+                                "availability": "http://schema.org/<?php echo $tavail; ?>",
+                                "price": "<?php echo $sprz; ?>",
+                                "priceCurrency": "<?php echo "&#8377;"; ?>"
+                                },
+                                "brand":"<?php echo $prolist['bname']; ?>",
+                                "logo":"<?php echo $fsitename; ?>images/logo1.jpg",
+                                "material":"<?php echo $prolist['category']; ?>",
+                                "description":"<?php echo stripslashes($prolist['description']); ?>",
+                                "url":"<?php echo $fsitename; ?>view-<?php echo $prolist['link']; ?>.htm"
+                                }
+                            </script> 
+                            <div class="product-item-photo" style="width:234px; height:234px;">
+                                <a href="<?php echo $fsitename; ?>view-<?php echo $prolist['link']; ?>.htm" class="product-item-img">
+                                    <?php
+if (file_exists($path . stripslashes($prolist[0]) . '/' . $img['0'])) {
+                                        if ($img['0'] != '') {
+                                            ?>
+                                            <img alt="<?php echo stripslashes($prolist[0]); ?>" data-src="<?php echo $fsitename; ?>images/product/<?php echo stripslashes($prolist[0]); ?>/<?php echo $img['0']; ?>" src="<?php echo $fsitename; ?>images/loader.gif" alt="<?php echo stripslashes($prolist[0]); ?>" title="<?php echo stripslashes($prolist['productname']); ?>" style="height:190px;" />
+                                            <?php
+                                        } else {
+                                            ?>
+                                            <img alt="<?php echo stripslashes($prolist[0]); ?>" src="<?php echo $fsitename; ?>images/noimage1.png" />
+                                            <?php
+                                        }
+                                    } else {
+                                        ?>
+                                        <img alt="<?php echo stripslashes($prolist[0]); ?>" src="<?php echo $fsitename; ?>images/noimage1.png" />
+                                    <?php } ?>
+                                </a>
+                            </div>
+                            <div class="product-item-detail">
+                                <strong class="product-item-name"><a href="<?php echo $fsitename; ?>view-<?php echo $prolist['link']; ?>.htm"><?php echo stripslashes($prolist[0]); ?></a></strong>
+                                <div class="product-item-price">
+                                    <?php if ($prolist['minval'] < $prolist['price']) { ?>
+                                        <span class="old-price">&#8377;&nbsp;<?php echo number_format($prolist['price'], '2', '.', ''); ?></span>
+                                        <span class="price">&#8377;&nbsp;<?php echo number_format($prolist['minval'], '2', '.', ''); ?></span>
+                                    <?php } else { ?>
+                                        <span class="price">&#8377;&nbsp;<?php echo number_format($prolist['minval'], '2', '.', ''); ?></span>
+                                    <?php } ?>
+
+                                    <?php if ($prolist['total_Availability'] == '0') { ?>
+                                        <br><span class="outStockDisplay">OUT OF STOCK</span>
+                                    <?php } else { ?>
+                                        <br><span class="inStockDisplay">IN STOCK</span>
+                                    <?php } ?>
+                                </div>
+                                <div class="product-item-actions">
+                                    <?php if ($prolist['total_Availability'] != '0') { ?>
+                                        <button class="btn btn-cart add_cart_this_product" type="button" data-pdid="<?php echo md5($prolist['pid']); ?>" data-go-cart='1'><span>Add to Cart</span></button>
+                                    <?php } ?>
+                                    <a class="btn btn-wishlist add_wishlist_product" data-pdid="<?php echo $prolist['pid']; ?>"  data-go-cart='1'><span>wishlist</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <?php
+                }
+            } else {
+                echo '<p align="center"><br><br>No Products Available</p>';
+            }
+            ?>	
+        </ol><!-- list product -->
+    </div> <!-- List Products -->
+
+</form>               
+<!-- Toolbar -->
+<?php if ($total != '0') { ?>
+    <div class=" toolbar-products toolbar-bottom">
+        <div class="toolbar-option">
+        </div>
+        <nav class="pagination-container">
+            <label>Showing: <?php echo $start; ?> - <?php echo $to; ?> of <?php echo $total; ?></label>
+            <?php
+            echo $paging->show_paging($alink);
+            ?>
+        </nav>
+    </div><!-- Toolbar -->
+<?php } ?>
+<script src="<?php echo $fsitename; ?>js/jQuery.loadScroll.js"></script>
+<script>
+                $(function () {
+                    // Custom fadeIn Duration
+                    $('img').loadScroll(200);
+                });
+</script>
+
+        
+        <script src="<?php echo $fsitename; ?>js/ajax.js"></script>
+        <script src="<?php echo $fsitename; ?>js/filter.js"></script>
+        <script src="<?php echo $fsitename; ?>js/cart.js"></script>
+        <script src="<?php echo $fsitename; ?>js/toastr.js"></script>
+        <link href="<?php echo $fsitename; ?>css/toastr.css" rel="stylesheet"/>
+        
+        
+ 

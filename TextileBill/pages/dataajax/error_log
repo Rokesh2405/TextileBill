@@ -1,0 +1,79 @@
+[04-Apr-2018 07:25:43 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[04-Apr-2018 07:25:43 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[04-Apr-2018 12:55:43 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 361
+[04-Apr-2018 12:55:43 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 367
+[04-Apr-2018 12:55:43 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 368
+[04-Apr-2018 12:55:43 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 369
+[04-Apr-2018 12:55:43 Asia/Calcutta] PHP Notice:  Undefined variable: menu in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 2
+[04-Apr-2018 12:55:43 Asia/Calcutta] PHP Notice:  Undefined index: db_table_for in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 178
+[04-Apr-2018 12:55:43 Asia/Calcutta] PHP Notice:  Undefined index: ssqry in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 400
+[04-Apr-2018 12:55:43 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 427
+[04-Apr-2018 12:55:43 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 435
+[04-Apr-2018 07:25:53 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[04-Apr-2018 07:25:53 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[04-Apr-2018 12:55:53 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 361
+[04-Apr-2018 12:55:53 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 367
+[04-Apr-2018 12:55:53 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 368
+[04-Apr-2018 12:55:53 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 369
+[04-Apr-2018 12:55:53 Asia/Calcutta] PHP Notice:  Undefined variable: menu in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 2
+[04-Apr-2018 12:55:53 Asia/Calcutta] PHP Notice:  Undefined index: db_table_for in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 178
+[04-Apr-2018 12:55:53 Asia/Calcutta] PHP Notice:  Undefined index: ssqry in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 400
+[04-Apr-2018 12:55:53 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 427
+[04-Apr-2018 12:55:53 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 435
+[04-Apr-2018 07:25:57 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[04-Apr-2018 07:25:57 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[04-Apr-2018 12:55:57 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 361
+[04-Apr-2018 12:55:57 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 367
+[04-Apr-2018 12:55:57 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 368
+[04-Apr-2018 12:55:57 Asia/Calcutta] PHP Notice:  Undefined variable: array in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 369
+[04-Apr-2018 12:55:57 Asia/Calcutta] PHP Notice:  Undefined variable: menu in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 2
+[04-Apr-2018 12:55:57 Asia/Calcutta] PHP Notice:  Undefined index: db_table_for in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 178
+[04-Apr-2018 12:55:57 Asia/Calcutta] PHP Notice:  Undefined index: ssqry in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 400
+[04-Apr-2018 12:55:57 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 427
+[04-Apr-2018 12:55:57 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 435
+[13-Apr-2018 05:06:33 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 511
+[13-Apr-2018 05:06:34 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 511
+[13-Apr-2018 05:07:51 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 868
+[13-Apr-2018 05:07:53 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 868
+[13-Apr-2018 05:08:36 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 865
+[13-Apr-2018 05:08:38 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 865
+[13-Apr-2018 11:04:15 Asia/Calcutta] PHP Notice:  Undefined index: db_table_for in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 148
+[13-Apr-2018 11:04:15 Asia/Calcutta] PHP Notice:  Undefined index: ssqry in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 403
+[13-Apr-2018 11:04:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 447
+[13-Apr-2018 11:04:15 Asia/Calcutta] PHP Notice:  Undefined index: sEcho in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 451
+[13-Apr-2018 11:04:15 Asia/Calcutta] PHP Notice:  Undefined index: iDisplayStart in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 460
+[13-Apr-2018 11:04:37 Asia/Calcutta] PHP Notice:  Undefined index: db_table_for in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 148
+[13-Apr-2018 11:04:37 Asia/Calcutta] PHP Notice:  Undefined index: ssqry in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 403
+[13-Apr-2018 11:04:37 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 439
+[13-Apr-2018 11:04:37 Asia/Calcutta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, array given in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 447
+[13-Apr-2018 11:04:37 Asia/Calcutta] PHP Notice:  Undefined index: sEcho in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 451
+[13-Apr-2018 11:04:37 Asia/Calcutta] PHP Notice:  Undefined index: iDisplayStart in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 460
+[13-Apr-2018 11:04:52 Asia/Calcutta] PHP Notice:  Undefined index: db_table_for in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 148
+[13-Apr-2018 11:04:52 Asia/Calcutta] PHP Notice:  Undefined index: ssqry in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 403
+[13-Apr-2018 11:04:52 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 447
+[13-Apr-2018 11:04:52 Asia/Calcutta] PHP Notice:  Undefined index: sEcho in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 451
+[13-Apr-2018 11:04:52 Asia/Calcutta] PHP Notice:  Undefined index: iDisplayStart in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 460
+[13-Apr-2018 11:05:14 Asia/Calcutta] PHP Notice:  Undefined index: db_table_for in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 142
+[13-Apr-2018 11:05:14 Asia/Calcutta] PHP Notice:  Undefined index: ssqry in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 403
+[13-Apr-2018 11:05:14 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 447
+[13-Apr-2018 11:05:14 Asia/Calcutta] PHP Notice:  Undefined index: sEcho in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 451
+[13-Apr-2018 11:05:14 Asia/Calcutta] PHP Notice:  Undefined index: iDisplayStart in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 460
+[13-Apr-2018 11:05:18 Asia/Calcutta] PHP Notice:  Undefined index: db_table_for in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 169
+[13-Apr-2018 11:05:18 Asia/Calcutta] PHP Notice:  Undefined index: ssqry in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 403
+[13-Apr-2018 11:05:18 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 447
+[13-Apr-2018 11:05:18 Asia/Calcutta] PHP Notice:  Undefined index: sEcho in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 451
+[13-Apr-2018 11:05:18 Asia/Calcutta] PHP Notice:  Undefined index: iDisplayStart in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 460
+[28-Apr-2018 08:48:27 Etc/GMT] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[28-Apr-2018 08:48:27 Etc/GMT] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/clicktlq/public_html/demo/admin/config/config.inc.php on line 44
+[28-Apr-2018 14:18:27 Asia/Calcutta] PHP Notice:  Undefined variable: menu in /home/clicktlq/public_html/demo/admin/config/menuconfig.php on line 2
+[28-Apr-2018 14:18:27 Asia/Calcutta] PHP Notice:  Undefined index: db_table_for in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 121
+[28-Apr-2018 14:18:27 Asia/Calcutta] PHP Notice:  Undefined index: ssqry in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 403
+[28-Apr-2018 14:18:27 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 451
+[28-Apr-2018 14:18:27 Asia/Calcutta] PHP Notice:  Undefined index: sEcho in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 455
+[28-Apr-2018 14:18:27 Asia/Calcutta] PHP Notice:  Undefined index: iDisplayStart in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 464
+[28-Apr-2018 14:18:27 Asia/Calcutta] PHP Notice:  Undefined variable: data in /home/clicktlq/public_html/demo/admin/pages/dataajax/gettablevalues.php on line 532
+[29-Jan-2019 11:34:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'geomeoin_westernfinance.loan' doesn't exist' in /home/geomeoinformatic/public_html/westernfinance/pages/dataajax/gettablevalues.php:270
+Stack trace:
+#0 /home/geomeoinformatic/public_html/westernfinance/pages/dataajax/gettablevalues.php(270): PDO->prepare('SELECT SQL_CALC...')
+#1 {main}
+  thrown in /home/geomeoinformatic/public_html/westernfinance/pages/dataajax/gettablevalues.php on line 270

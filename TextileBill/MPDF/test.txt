@@ -1,0 +1,130 @@
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="70%"><img src="http://localhost/ttbilling/textilebill/pages/profile/image/1656588568.png" height="64px;"></td>
+<td width="30%">
+<table width="100%">
+<tr>
+<td><h2>Bill No 1</h2></td>
+</tr>
+<tr>
+<td><strong>Date </strong>Oct-04,2023</td>
+</tr>
+<tr>
+<td><strong>Due Date </strong>Oct-04,2023</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<hr style="border:45px solid #CCC;">
+<table width="100%">
+<tr>
+<td>
+<table width="100%">
+<tr>
+<td><h2>Thanvi Technologies</h2></td>
+</tr>
+<tr>
+<td>No.20-A, 1st Floor, Sathyamoorthy Nagar,<br>
+Thamos Road Bypass Road, Madurai - 625010</td>
+</tr>
+<tr>
+<td>+91 84381 64916</td>
+</tr>
+<tr>
+<td>info@thanvitechnologies.com</td>
+</tr>
+</table>
+</td>
+<td valign="top"><table width="100%">
+<tr>
+<td><h2>Bill To</h2></td>
+</tr>
+<tr>
+<td><br><br><br><br></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+</table>
+<hr style="border:45px solid #CCC;"> <br>
+             <table border="0" cellpadding="4" cellspacing="0" width="100%">
+              <tr class="tabletitle">
+                <td class="item"><h4>Sno</h4></td>
+                <td class="Hours"><h4>Description</h4></td>
+                <td class="Hours"><h4>HSN</h4></td>
+                <td class="Rate"><h4>Qty</h4></td>
+                <td class="Rate"><h4>Rate</h4></td>
+                  <td class="Rate"><h4>Total</h4></td>
+              </tr>
+</table>
+<hr style="border:45px solid #CCC;"> <br>
+  <table border="0" cellpadding="4" cellspacing="0" width="100%">
+              <tr class="service">
+               <td class="item" width="12%"  style="border-bottom:1px solid #CCC;"><p class="itemtext">1</p></td>
+                <td class="Hours" width="32%"  style="border-bottom:1px solid #CCC;"><p class="itemtext">j</p></td>
+                 <td class="Hours" width="15%"  style="border-bottom:1px solid #CCC;"><p class="itemtext">jk</p></td>
+                <td class="Rate" width="10%"  style="border-bottom:1px solid #CCC;"><p class="itemtext"></p></td>
+                <td class="Rate"  style="border-bottom:1px solid #CCC;"><p class="itemtext">Rs. 1200</p></td>
+                <td class="Rate"  style="border-bottom:1px solid #CCC;"><p class="itemtext">Rs. 0</p></td>
+              </tr> </table>
+<table width="100%">
+<tr>
+<td width="40%"><br>
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" align="left" style="font-size:12px;">
+        <tr class="tabletitle">
+                <td class="item" style="padding:10px; border-bottom:1px solid #ccc;"><h4>HSN</h4></td>
+                <td class="Hours" style="padding:10px;border-bottom:1px solid #ccc;"><h4>Taxable Value</h4></td>
+                 <td class="Hours" style="padding:10px;border-bottom:1px solid #ccc;"><h4>CGST %</h4></td>
+                  <td class="Hours" style="padding:10px;border-bottom:1px solid #ccc;"><h4>CGST Value</h4></td>
+                  <td class="Hours" style="padding:10px;border-bottom:1px solid #ccc;"><h4>SGST %</h4></td>
+               <td class="Hours" style="padding:10px;border-bottom:1px solid #ccc;"><h4>SGST Value</h4></td>
+               
+                <td class="Rate" style="padding:10px;border-bottom:1px solid #ccc;"><h4>Tot Tax Amt</h4></td>
+                 </tr><tr class="tabletitle">
+                <td class="item" style="padding:10px;"><h4>jk</h4></td>
+                <td class="Hours" style="padding:10px;">0</td>
+                <td class="Hours" align="center">5%
+               </td> <td class="Hours" align="center">0
+               </td> <td class="Hours" align="center">5%
+               </td> <td class="Hours" align="center">0
+               </td>
+                <td class="Rate" style="padding:10px;" align="center">0</td>
+                 </tr><tr class="tabletitle">
+                <td class="item" style="padding:10px;"><h4>Total</h4></td>
+                <td class="Hours" style="padding:10px;">0.00</td>
+                 <td class="Hours" style="padding:10px;" colspan="2" align="right">0.00</td>
+                  <td class="Hours" style="padding:10px;" colspan="2" align="right">0.00</td>
+              
+                 </tr></table></td>
+<td width="60%" valign="top">
+<table width="100%" align="right">
+              <tr><td>&nbsp;</td></tr>
+        <tr class="tabletitle" style="font-size:16px; margin-bottom:5px;">
+         <td align="right" valign="top"><strong>Sub Total </strong></td>
+         <td align="right" valign="top"><strong> : Rs. </strong></td>
+         <td align="right" valign="top">0.00</td>
+        </tr><tr class="tabletitle" style="font-size:16px;margin-bottom:5px;">
+         <td align="right" valign="top"><strong>GST Value </strong></td>
+         <td align="right" valign="top"><strong> : Rs. </strong></td>
+         <td align="right" valign="top">0.00</td>
+        <tr class="tabletitle" style="font-size:16px;margin-bottom:5px;">
+         <td align="right" valign="top"><strong style="color:blue; font-size:18px;">Grand Total </strong></td>
+         <td align="right" valign="top"><strong style="color:blue; font-size:18px;">   : Rs. </strong></td>
+         <td align="right" valign="top"  style="color:blue; font-size:18px;">0.00</td>
+        </tr><tr><td>&nbsp;</td></tr></table>
+</td>
+</table><p><strong>Terms & Conditions</strong><br><pre style="font-size:10px;">1.No payments are refundable.
+2.The above cost and timeline are only for the design development of the applications and don’t include SEO/SMO/Digital Marketing etc. 
+3.All assets like images, logos, content, icons, etc. are to be provided by the client.
+4.Any other third party integration is to be borne by the client
+5.All the required information and queries should be resolved promptly. Thanvi Technologies will not 6.be responsible if there is any delay in delivering the project because of the delay in query resolution 7.from the client.
+8.This contract does not cover graphic design of any kind and data entry tasks.
+9.Any major change in requirements including the integration of external systems shall be treated as a 10.task and its efforts in terms of time and remuneration shall be provided separately. Please note 11.that some changes may seem small but can take significant efforts to implement, Thanvi 12.Technologies will provide efforts for them after thoroughly evaluating them.
+13.Free maintenance of 45 working days will be provided after the project deployment wherein bugs and issues will be fixed. Any change request raised during or after this period will be treated as a task and its efforts will be provided. We can come up with an AMC if required after this period ends.
+</pre></p><hr><center><strong>                                                                                 www.thanvitechnologies.com </strong></center>

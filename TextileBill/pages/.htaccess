@@ -1,0 +1,17 @@
+Options +FollowSymlinks
+Options -Indexes
+DirectoryIndex index.php
+RewriteEngine on
+RewriteCond %{SERVER_PORT} 80 
+
+#ErrorDocument 404 http://localhost/masteradmin/pages/
+
+#RewriteRule ^settings/(.*).htm settings/$1.php [L,QSA]
+
+RewriteRule ^(.*)\.htm $1.php [L,QSA]
+
+
+
+RewriteCond %{THE_REQUEST} !^POST
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d

@@ -1,0 +1,26 @@
+[22-Jan-2019 07:05:03 UTC] PHP Fatal error:  Call to undefined function delreturn() in /home/geomeoinformatic/public_html/westernfinance/pages/master/bankstatus.php on line 13
+[23-Jan-2019 12:22:40 UTC] PHP Fatal error:  Call to undefined function getobjectdetail() in /home/geomeoinformatic/public_html/westernfinance/pages/master/addcustomer.php on line 324
+[30-Jan-2019 11:57:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number' in /home/geomeoinformatic/public_html/westernfinance/config/config.inc.php:261
+Stack trace:
+#0 /home/geomeoinformatic/public_html/westernfinance/config/config.inc.php(261): PDOStatement->execute(Array)
+#1 /home/geomeoinformatic/public_html/westernfinance/pages/master/addloan.php(219): FETCH_all('SELECT * FROM `...', '1', NULL, NULL)
+#2 {main}
+  thrown in /home/geomeoinformatic/public_html/westernfinance/config/config.inc.php on line 261
+[05-Feb-2019 11:26:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '04-08-2018' for column 'date' at row 1' in /home/geomeoinformatic/public_html/westernfinance/config/functions_master.php:446
+Stack trace:
+#0 /home/geomeoinformatic/public_html/westernfinance/config/functions_master.php(446): PDOStatement->execute(Array)
+#1 /home/geomeoinformatic/public_html/westernfinance/pages/master/addreturn.php(20): addreturn('1', 'AN1', NULL, '2', '04-08-2018', 'K.RADHA', '9751097913', '4.500', '6000', '3', '5820', '1', '107', '19-11-2018', '642', NULL, '6642', '157.50.10.7', NULL)
+#2 {main}
+  thrown in /home/geomeoinformatic/public_html/westernfinance/config/functions_master.php on line 446
+[05-Feb-2019 11:28:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '04-08-2018' for column 'date' at row 1' in /home/geomeoinformatic/public_html/westernfinance/config/functions_master.php:446
+Stack trace:
+#0 /home/geomeoinformatic/public_html/westernfinance/config/functions_master.php(446): PDOStatement->execute(Array)
+#1 /home/geomeoinformatic/public_html/westernfinance/pages/master/addreturn.php(20): addreturn('1', 'AN1', NULL, '2', '04-08-2018', 'K.RADHA', '9751097913', '4.500', '6000', '3', '5820', '1', '107', '19-11-2018', '642', NULL, '6642', '157.50.10.7', NULL)
+#2 {main}
+  thrown in /home/geomeoinformatic/public_html/westernfinance/config/functions_master.php on line 446
+[05-Feb-2019 11:29:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '04-08-2018' for column 'date' at row 1' in /home/geomeoinformatic/public_html/westernfinance/config/functions_master.php:446
+Stack trace:
+#0 /home/geomeoinformatic/public_html/westernfinance/config/functions_master.php(446): PDOStatement->execute(Array)
+#1 /home/geomeoinformatic/public_html/westernfinance/pages/master/addreturn.php(20): addreturn('1', 'AN1', NULL, '2', '04-08-2018', 'K.RADHA', '9751097913', '4.500', '6000', '3', '5820', '1', '107', '19-11-2018', '642', NULL, '6642', '103.113.190.197', NULL)
+#2 {main}
+  thrown in /home/geomeoinformatic/public_html/westernfinance/config/functions_master.php on line 446

@@ -1,0 +1,54 @@
+[14-Oct-2017 09:56:56 UTC] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home/everestgift/public_html/beta/admin/config/config.inc.php on line 45
+[14-Oct-2017 09:56:56 UTC] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/everestgift/public_html/beta/admin/config/config.inc.php on line 45
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/everestgift/public_html/beta/admin/config/menuconfig.php on line 8
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Warning:  include_once(functions_process.php): failed to open stream: No such file or directory in /home/everestgift/public_html/beta/admin/config/config.inc.php on line 384
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'functions_process.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/everestgift/public_html/beta/admin/config/config.inc.php on line 384
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: collapse in /home/everestgift/public_html/beta/admin/require/header.php on line 153
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined index: permissionid in /home/everestgift/public_html/beta/admin/require/header.php on line 182
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined index: permissionid in /home/everestgift/public_html/beta/admin/require/header.php on line 184
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined index: permissionid in /home/everestgift/public_html/beta/admin/require/header.php on line 193
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined index: permissionid in /home/everestgift/public_html/beta/admin/require/header.php on line 194
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined index: permissionid in /home/everestgift/public_html/beta/admin/require/header.php on line 202
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined index: UIDD in /home/everestgift/public_html/beta/admin/require/header.php on line 212
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: tree1 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 5
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: tree2 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 10
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: menutree1 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 16
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem1 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 17
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem2 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 18
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem3 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 19
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem4 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 20
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem19 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 21
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: tree3 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 24
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: menutree2 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 30
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem5 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 31
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem6 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 32
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem7 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 33
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem70 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 34
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: tree4 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 37
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: menutree4 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 43
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem8 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 44
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem9 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 45
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem10 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 46
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem11 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 47
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem12 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 48
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem13 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 49
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem20 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 50
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: tree5 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 53
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: menutree6 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 59
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem14 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 60
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem15 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 61
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: tree9 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 64
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: menutree9 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 70
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem21 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 71
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem22 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 72
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: tree7 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 86
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: menutree5 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 92
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem17 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 93
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: tree8 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 97
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: menutree8 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 103
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: smenuitem18 in /home/everestgift/public_html/beta/admin/require/sidebar.php on line 104
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined index: permissionid in /home/everestgift/public_html/beta/admin/require/header.php on line 255
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: msg in /home/everestgift/public_html/beta/admin/pages/CMS/staticpages.php on line 101
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined variable: datepicker in /home/everestgift/public_html/beta/admin/require/footer.php on line 132
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined index: permissionid in /home/everestgift/public_html/beta/admin/require/footer.php on line 352
+[14-Oct-2017 15:26:57 Asia/Kolkata] PHP Notice:  Undefined index: permissionid in /home/everestgift/public_html/beta/admin/require/footer.php on line 404
